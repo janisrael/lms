@@ -1,0 +1,120 @@
+{
+  "data": {
+    "course_details": 
+    [
+        {
+            "id": 1,
+            "author_name": "Greg Secker",
+            "author_image_url": "https://s3.eu-west-2.amazonaws.com/sc2-portal-xyz/images/GregSecker-LearnToTrade-2.png",
+            "video_url": "https://vimeo.com/315901527",
+            "video_id": null,
+            "preview_video_url": null,
+            "preview_video_id": null,
+            "lesson_id": 1,
+            "currentTime": 0,
+            "actualDuration": 148,
+            "startPosition": 0,
+            "lesson_number": 3,
+            "lessons_in_chapter": 6,
+            "last_progress": 0,
+            "is_accessible": 1,
+            "chapter_id": 5,
+            "course_id": 4,
+            "course_is_webinar": false,
+            "faq_email": "info@smartchartsfx.com",
+            "faqs": [
+                {
+                    "id": 17,
+                    "question": "Is SmartCharts the only trading platform I can use?",
+                    "answer": "<p>As a self-directed trader, you are free to use any trading platform available to you. Consider focusing on the platform’s &nbsp;affordability, reliability, features and ease of use to make your decision.</p>"
+                },
+                {
+                    "id": 18,
+                    "question": "Can I use SmartCharts on my smartphone?",
+                    "answer": "<p></p>\r\n<p>Yes, SmartCharts has been designed for use on phones and tablets. If you have an internet connection, you can place and manage your trade from multiple devices.</p>\r\n<p></p>"
+                },
+                {
+                    "id": 19,
+                    "question": "How does SmartCharts place trades into the financial markets?",
+                    "answer": "<p>SmartCharts links to your brokerage account. When you enter a trade, SmartCharts will automatically send the order details to your broker, who will execute your order using the funds in your brokerage account. You can find out more about this in the ‘What is a Brokerage Account?’ module of this course.</p>"
+                },
+                {
+                    "id": 20,
+                    "question": "Is SmartCharts difficult to use?",
+                    "answer": "<p>SmartCharts is one of the most user-friendly trading platforms available in the market place today. Throughout this and other courses, you will be learning about the different functionalities of the SmartCharts platform as you go. There is also lots of support available to you when using the platform, as you'll see throughout the course.&nbsp;</p>"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 6,
+                    "name": "What is a Trading Platform",
+                    "file": "https://lms-frontend.app/images/sample.pdf",
+                    "file_type": "pdf",
+                    "file_size": 200422
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "author_name": "Jan Israel",
+            "author_image_url": "https://s3.eu-west-2.amazonaws.com/sc2-portal-xyz/images/GregSecker-LearnToTrade-2.png",
+            "video_url": "https://vimeo.com/318767810",
+            "video_id": null,
+            "preview_video_url": null,
+            "preview_video_id": null,
+            "lesson_id": 2,
+            "lesson_number": 3,
+            "currentTime": 0,
+            "actualDuration": 148,
+            "startPosition": 0,
+            "lessons_in_chapter": 6,
+            "last_progress": 0,
+            "is_accessible": 1,
+            "chapter_id": 5,
+            "course_id": 4,
+            "course_is_webinar": false,
+            "faq_email": "info@smartchartsfx.com",
+            "faqs": [
+                {
+                    "id": 17,
+                    "question": "Is SmartCharts the only trading platform I can use?",
+                    "answer": "<p>As a self-directed trader, you are free to use any trading platform available to you. Consider focusing on the platform’s &nbsp;affordability, reliability, features and ease of use to make your decision.</p>"
+                },
+                {
+                    "id": 18,
+                    "question": "Can I use SmartCharts on my smartphone?",
+                    "answer": "<p></p>\r\n<p>Yes, SmartCharts has been designed for use on phones and tablets. If you have an internet connection, you can place and manage your trade from multiple devices.</p>\r\n<p></p>"
+                },
+                {
+                    "id": 19,
+                    "question": "How does SmartCharts place trades into the financial markets?",
+                    "answer": "<p>SmartCharts links to your brokerage account. When you enter a trade, SmartCharts will automatically send the order details to your broker, who will execute your order using the funds in your brokerage account. You can find out more about this in the ‘What is a Brokerage Account?’ module of this course.</p>"
+                },
+                {
+                    "id": 20,
+                    "question": "Is SmartCharts difficult to use?",
+                    "answer": "<p>SmartCharts is one of the most user-friendly trading platforms available in the market place today. Throughout this and other courses, you will be learning about the different functionalities of the SmartCharts platform as you go. There is also lots of support available to you when using the platform, as you'll see throughout the course.&nbsp;</p>"
+                }
+            ],
+            "resources": [
+                {
+                    "id": 6,
+                    "name": "What is a Trading Platform",
+                    "file": "https://s3.eu-west-2.amazonaws.com/sc2-portal-xyz/learning_resources/LFXc1m5 general fx market behaviour.pdf",
+                    "file_type": "pdf",
+                    "file_size": 278974
+                }
+            ],
+            "next": {
+                "name": "What is a Brokerage Account?",
+                "chapter_id": 5,
+                "course_id": 4,
+                "id": 9,
+                "type": "elearn.lesson"
+            }
+          }
+    ]
+    
+  }
+}
